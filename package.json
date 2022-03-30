@@ -2,7 +2,7 @@
   "name": "deployment-assignment-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://kmings93.github.io/assignment-2.13-deployment",
+  "homepage": "https://kmings93.github.io/assignment-2.13-Attempt",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.3",
     "@testing-library/react": "^12.1.4",
