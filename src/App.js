@@ -1,6 +1,6 @@
 import logo from "./logo.svg";
 import "./App.css";
-import config from "./config/index";
+import config from "./config";
 
 function App() {
   return (
